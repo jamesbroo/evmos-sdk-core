@@ -73,7 +73,7 @@ export const WETH9: { [chainId in ChainId]: Token } = {
     ChainId.EVMOS_TESTNET,
     '0xcc491f589B45d4a3C679016195B3FB87D7848210',
     18,
-    'WETH9',
-    'Wrapped Ether'
+    'EVMOS',
+    'Evmos'
   )
 }
